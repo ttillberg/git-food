@@ -2,22 +2,22 @@
 
 These pancakes are light, fluffy and great for a weekend brunch or breakfast. Try adding a large handful of fresh blueberries or any other berry to the batter before cooking.
 
-**Approximate price**
+## Approximate price**
 
 £2.00
 
-**Ingredients**
+## Ingredients**
 
-- 135g/4¾oz plain flour
+- 135g plain flour
 - 1 tsp baking powder
 - ½ tsp salt
 - 2 tbsp caster sugar
 - 80ml milk
 - 50ml apple juice
 - 1 large egg, lightly beaten
-- 2 tbsp melted butter (allowed to cool slightly) or olive oil, plus extra for cooking
+- 2 tbsp melted butter (allowed to cool slightly) or sunflower oil, plus extra for cooking
 
-**Preparation method**
+## Preparation method**
 
 1. Sift the flour, baking powder, salt and caster sugar into a large bowl. In a separate bowl or jug, lightly whisk together the milk and egg, then whisk in the melted butter.
 2. Pour the milk mixture into the flour mixture and, using a fork, beat until you have a smooth batter. Any lumps will soon disappear with a little mixing. Let the batter stand for a few minutes.
