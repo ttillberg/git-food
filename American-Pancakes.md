@@ -1,5 +1,5 @@
 # American Pancakes
-==
+=
 
 These pancakes are light, fluffy and great for a weekend brunch or breakfast. Try adding a large handful of fresh blueberries or any other berry to the batter before cooking.
 
