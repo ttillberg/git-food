@@ -4,7 +4,7 @@
 - **20 minutes**
 - **< £10**
 
-**Recommended accompagnement: Jasmine rice**
+**Recommended accompagnement: [Jasmine rice](Perfect-Boiled-Rice.md)**
 
 ## Ingredients
 
