@@ -1,13 +1,10 @@
 # Oven Baked Seabream Fillet with Spices
 
-## Info
+- Serves 2
+- 20 minutes
+- less than £10
 
-** 
-Serves 2
-20 minutes
-£10
-Recommended accompagnement: Jasmine rice
-**
+** Recommended accompagnement: Jasmine rice **
 
 ## Ingredients
 
