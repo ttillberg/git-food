@@ -1,6 +1,6 @@
 # Artisan Butternut Squasch Pizza
 
-Pizza with rich tomato sauce butternut sqash, goats cheed and caramelised onions. This pizza is vegan and absolutelly amazing and easy to make. Pizza like http://www.francomanca.co.uk/. It is not a sourdough, but almost as good. It will serve 4-6 people.
+Pizza with rich tomato sauce butternut sqash, goats cheed and caramelised onions. This pizza is vegan and absolutelly amazing and easy to make. Pizza like http://www.francomanca.co.uk/. It is not a sourdough, but almost as good. It will serve 4 - 6 people.
 
 ## Price
 
