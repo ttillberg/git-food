@@ -20,8 +20,8 @@ Serves 6 - 8 people
 
 ## Ingredients Toppings
 
-– 4 slices wholemeal seeded bread
-– handful pumpkin seeds
+- 4 slices wholemeal seeded bread
+- handful pumpkin seeds
 
 ## Instructions Soup
 
