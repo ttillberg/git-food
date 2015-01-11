@@ -1,6 +1,6 @@
 # git-food
 
-Forkable recipes that are:
+Forkable recipes which are:
 
 - simple
 - good
@@ -15,4 +15,4 @@ Forkable recipes that are:
 
 Commit message needs to have the same name as recipe. All Recipe instructions need to be written in a descriptive language and please avoid subjectivity. All ingredients should be available in a basic supermarket. Recipe needs to be a favourite or made at least once.
 
-please add thoughts
+…Please add thoughts
